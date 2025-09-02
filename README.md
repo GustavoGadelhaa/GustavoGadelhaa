@@ -3,7 +3,7 @@
 
 <h3 align="center">🎓 Estudante de Ciência da Computação</h3>
 
----
+
  
 ## 🚀 Sobre mim 
 
