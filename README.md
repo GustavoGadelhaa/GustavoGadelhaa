@@ -4,7 +4,7 @@
 <h3 align="center">🎓 Estudante de Ciência da Computação</h3>
 
 ---
-
+ 
 ## 🚀 Sobre mim 
 
 Trilhando meu caminho no conhecimento, busco desafios que fortaleçam minhas habilidades e<br> me impulsionem a **evoluir a cada dia**, sempre em busca de aprendizado e crescimento.
