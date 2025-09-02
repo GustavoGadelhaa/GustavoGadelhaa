@@ -10,7 +10,7 @@
 Trilhando meu caminho no conhecimento, busco desafios que fortaleçam minhas habilidades e<br> me impulsionem a **evoluir a cada dia**, sempre em busca de aprendizado e crescimento.
 
 
----
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -23,7 +23,7 @@ Trilhando meu caminho no conhecimento, busco desafios que fortaleçam minhas hab
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" width="50" height="50" alt="n8n" />
 </p>
 
----
+
 
 ## 📬 Contato
 
